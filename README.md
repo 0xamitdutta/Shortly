@@ -4,7 +4,7 @@
 
 ## Project Setup
 
-**Windows**
+**Windows, Linux, Mac**
 ```
 Download The Repository in a Zip file and Unzip all the Contents
 Setup a Virtual Environment and activate it
