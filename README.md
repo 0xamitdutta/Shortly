@@ -12,7 +12,7 @@ Run the command pip install -r requirements.txt in your shell
 Run python manage.py runserver
 ```
 
-## Usage example
+
 
 ![](https://ibb.co/4RrZ4Rh)
 
